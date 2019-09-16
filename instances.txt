@@ -1,0 +1,30 @@
+chair class
+
+attributes
+1. color(string)
+2. material(string)
+3. numberOfCushions(integer)
+4. manufacturer(string)
+5. isOccupied(boolean)
+
+
+methods
+1. changeColor (changes color)
+2. addOccupant (adds occupant to chair)
+3. changeMaterial (changes material)
+4. countCushions (counts cushions)
+
+
+instance 1
+1. Color = "red"
+2. Material = "leather"
+3. numberOfCushions = 2
+4. manufacturer = "Ikea"
+5. isOccupied = true
+
+instance 2
+1. color =  "brown"
+2. material = "wood"
+3. numberOfCushions = 0
+4. manufacturer = "Ikea"
+5. isOccupied = false 
