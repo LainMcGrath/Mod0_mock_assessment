@@ -1,0 +1,40 @@
+Doing laundry
+
+1. Get quarters
+  1.1. Attempt to get quarters from local laundromat if staff is not around
+  1.2. If laundromat is unsuccessful go to the bank M-F 9am-5pm
+2. Collect the supplies
+  2.1. Sort laundry and put in separate clothes baskets
+    2.1.1. lights
+    2.1.2. darks
+    2.1.3. delicates
+  2.2. gather laundry detergent pods and fabric softner
+  2.3. gather the required quarter amounts
+3. Bring laundry, detergent, fabric softer, and quarters to the laundry room
+  3.1. bring lights basket to laundry room first
+  3.2. bring darks basket when first wash cycle is done
+  3.3. bring delicates basket when second wash cycle is done
+4. Wash and dry cycle
+  4.1. if washer has washed clothes inside
+    4.1.1. if your clothing and lights or darks
+      4.1.1.1. add them to the drier
+      4.1.1.2. add 6 quarters to the drier
+      4.1.1.3. start the drier
+    4.1.2. if your clothing and delicates
+      4.1.2.1. hang delicates to dry on the clothesline
+    4.1.3. if not your clothing
+      4.1.3.1. pile on laundry room table
+      4.1.3.2. wonder why this is the common practice in the building
+  4.2. load the washer
+    4.2.1. add clothes, detergent, and fabric softener to the washer
+    4.2.2. add 8 quarters to the washer
+    4.2.3. set wash settings
+    4.2.4. push start
+  4.3. set timer on phone for length of wash cycle - 45 minutes
+  4.4 remove dry clothing from the drier or clothesline
+    4.1. put dry clothing in an empty clothes basket
+    4.2. bring basket to apartment
+    4.3. fold clothing immediately
+    4.4. put laundry away immediately
+      4.4.1. if fail to put laundry away, slowly remove and wear clothing until basket is empty
+5. Repeat wash and dry cycle until all laundry is folded and put away
