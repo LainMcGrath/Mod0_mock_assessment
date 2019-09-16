@@ -1,0 +1,15 @@
+chair class
+
+attributes
+1. color(string)
+2. material(string)
+3. numberOfCushions(integer)
+4. manufacturer(string)
+5. isOccupied(boolean)
+
+
+methods
+1. changeColor (changes color)
+2. addOccupant (adds occupant to chair)
+3. changeMaterial (changes material)
+4. countCushions (counts cushions)
